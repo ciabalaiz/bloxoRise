@@ -1,8 +1,9 @@
---bloxo save
+--Saving in progress. 4433333333333211000000000
 
 
 
---gianfragolo was here, founder of bloxo
+
+--gianfragolo was here, founder of bloxo and of index 
 
 local function base64Encode(data)
 	local b = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
